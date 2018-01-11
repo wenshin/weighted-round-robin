@@ -1,0 +1,13 @@
+{
+  "name": "weighted-round-robin",
+  "version": "1.0.0",
+  "description": "a weighted round robin implemention, include SWRR, WRR, RR",
+  "main": "index.js",
+  "repository": "git@github.com:wenshin/weighted-round-robin.git",
+  "author": "wenshin",
+  "license": "MIT",
+  "dependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^4.1.0"
+  }
+}
